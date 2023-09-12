@@ -5,3 +5,4 @@
 5. Habilitar las extenciones pdo_pgsql y pgsql en el archivo php.ini del servidol virtual
 6. Agregar el proyecto en el directorio que aputan el servidor 
 7. Colocar en la dirección del servidor y entrar en el archivo index.php
+8. Los dos scripts adicionales para la base de datos se encuentran en la carpeta sql
